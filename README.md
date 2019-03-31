@@ -1,3 +1,4 @@
-"# python_hardway3" 
-"# python_hardway3" 
-"# python_hardway3" 
+ # shimiashishabi
+ - 1
+ - 2
+ 
