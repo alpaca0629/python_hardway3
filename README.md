@@ -1,5 +1,2 @@
- # shimiashishabi
- - 1
- - 2
-
+#关于python代码的练习
 
